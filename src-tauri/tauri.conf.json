@@ -1,6 +1,6 @@
 {
-  "productName": "WeRead",
-  "identifier": "com.pake.weread",
+  "productName": "FreshRSS",
+  "identifier": "freshrss.alex1222.com",
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
